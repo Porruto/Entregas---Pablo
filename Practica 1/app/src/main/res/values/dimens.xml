@@ -7,4 +7,5 @@
     <dimen name="title_margin">5dp</dimen>
     <dimen name="scrollEndPadding">80dp</dimen>
     <dimen name="card_default">10dp</dimen>
+    <dimen name="button_default">200dp</dimen>
 </resources>
