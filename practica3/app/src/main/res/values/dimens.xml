@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="login_margin">400dp</dimen>
+    <dimen name="fields_margin">1dp</dimen>
+    <dimen name="corners">25dp</dimen>
+    <dimen name="title_margin">12dp</dimen>
+    <dimen name="img_margin">20dp</dimen>
+    <dimen name="desc_margin">21dp</dimen>
+</resources>
